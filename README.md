@@ -2,7 +2,7 @@
 
 The scheme spreads some love to variables, comments and all the things you'll need to code in HTML, CSS, PHP, Javascript, Ruby, etc...
 
-![Nice Screenshot Baby](https://raw.github.com/godbout/sleeplessmind-color-schemei/readme/screenshots/sleeplessmind.png "Do you like it?")
+![Nice Screenshot Baby](https://raw.github.com/godbout/sleeplessmind-color-scheme/readme/screenshots/sleeplessmind.png "Do you like it?")
 
 # Color Theme, not UI Theme
 
