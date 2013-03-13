@@ -557,6 +557,41 @@
 				<string>#751012</string>
 			</dict>
 		</dict>
+
+		<dict>
+  			<key>name</key>
+			<string>diff.deleted</string>
+			<key>scope</key>
+			<string>markup.deleted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff.inserted</string>
+			<key>scope</key>
+			<string>markup.inserted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff.changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#967EFB</string>
+			</dict>
+		</dict>
+		
 	</array>
 	<key>uuid</key>
 	<string>E5304455-0AC7-4082-8E62-5FD1B3313EEC</string>
